@@ -46556,7 +46556,7 @@ I(a){var s=this,r=null,q=t.p,p=s.at
 return A.jq(r,A.bu(r,A.cE(A.a([A.fz(A.a([A.fO(new A.lC("assets/images/pg_question_icon.svg",r),r,r)],q),B.u,B.az,B.r,r),B.dn,new A.dc(s.e,B.aS,24,B.a3,r),B.bA,new A.pe(s.f,s.r,p,r),B.eF,new A.pe(s.w,s.x,p,r),B.eF,new A.pe(s.y,s.z,p,r),B.eF,new A.pe(s.Q,s.as,p,r),B.R0,A.cN(new A.n_("VOLTAR",s.ax,B.fs,r),r,1/0),B.k3,A.auR(B.jK,7,s.ay,B.d8,A.bC(a,r,t.w).w.a.a-50)],q),B.u,B.I,B.r,r),r,r,r,B.iB,r,r))}}
 A.v3.prototype={
 I(a){var s=null,r=t.p
-return A.jq(s,A.bu(s,A.cE(A.a([A.fz(A.a([A.fO(new A.lC("assets/images/pg_question_icon.svg",s),s,s)],r),B.u,B.az,B.r,s),B.dn,B.Wg,B.bA,B.Px,B.ym,B.Pv,B.R2,A.cN(A.a3U(new A.n_("PR\xd3XIMA ETAPA","cadastro-usuario",A.Mk(B.dU,s,s),s),B.T),s,1/0),B.k3,A.auR(B.jK,7,1,B.d8,A.bC(a,s,t.w).w.a.a-50)],r),B.u,B.I,B.r,s),s,s,s,B.iB,s,s))}}
+return A.jq(s,A.bu(s,A.cE(A.a([A.fz(A.a([A.fO(new A.lC("assets/images/pg_question_icon.svg",s),s,s)],r),B.u,B.az,B.r,s),B.dn,B.Wg,B.bA,B.Px,B.ym,B.Pv,B.R1,A.cN(A.a3U(new A.n_("PR\xd3XIMA ETAPA","cadastro-usuario",A.Mk(B.dU,s,s),s),B.T),s,1/0),B.k3,A.auR(B.jK,7,1,B.d8,A.bC(a,s,t.w).w.a.a-50)],r),B.u,B.I,B.r,s),s,s,s,B.iB,s,s))}}
 A.qC.prototype={
 ad(){return new A.WY(A.vR(null),A.vR(null),A.vR(null),A.a(["Menor que 18","Entre 19 e 28","Entre 29 e 38","Mais que 39"],t.s),B.i)}}
 A.WY.prototype={
@@ -46571,7 +46571,7 @@ r.Z$=0
 s.aF()},
 I(a){var s=this,r=null,q=t.p,p=s.x
 p=new A.A9(p,A.ae(p).i("A9<1>"))
-return A.jq(r,A.bu(r,A.cE(A.a([A.fz(A.a([A.fO(new A.lC("assets/images/pg_question_icon.svg",r),r,r)],q),B.u,B.az,B.r,r),B.dn,B.Wt,B.R4,A.cE(A.a([B.Oh,new A.bP(B.iz,new A.lF("Digite seu nome",s.e,r),r)],q),B.bc,B.I,B.r,r),A.cE(A.a([B.Od,new A.bP(B.iz,new A.lF("Digite seu e-mail",s.f,r),r)],q),B.bc,B.I,B.r,r),A.cE(A.a([B.Oi,new A.bP(B.GC,new A.lF("Digite uma senha",s.r,r),r)],q),B.bc,B.I,B.r,r),A.cE(A.a([B.Oc,A.cE(p.ge7(p).hG(0,new A.anM(s),t.PE).d9(0),B.u,B.I,B.r,r)],q),B.bc,B.I,B.r,r),B.R1,B.Pt,B.k3,A.auR(B.jK,7,1,B.d8,A.bC(a,r,t.w).w.a.a-50)],q),B.u,B.I,B.r,r),r,r,r,B.iB,r,r))}}
+return A.jq(r,A.bu(r,A.cE(A.a([A.fz(A.a([A.fO(new A.lC("assets/images/pg_question_icon.svg",r),r,r)],q),B.u,B.az,B.r,r),B.dn,B.Wt,B.R4,A.cE(A.a([B.Oh,new A.bP(B.iz,new A.lF("Digite seu nome",s.e,r),r)],q),B.bc,B.I,B.r,r),A.cE(A.a([B.Od,new A.bP(B.iz,new A.lF("Digite seu e-mail",s.f,r),r)],q),B.bc,B.I,B.r,r),A.cE(A.a([B.Oi,new A.bP(B.GC,new A.lF("Digite uma senha",s.r,r),r)],q),B.bc,B.I,B.r,r),A.cE(A.a([B.Oc,A.cE(p.ge7(p).hG(0,new A.anM(s),t.PE).d9(0),B.u,B.I,B.r,r)],q),B.bc,B.I,B.r,r),B.R2,B.Pt,B.k3,A.auR(B.jK,7,1,B.d8,A.bC(a,r,t.w).w.a.a-50)],q),B.u,B.I,B.r,r),r,r,r,B.iB,r,r))}}
 A.anM.prototype={
 $1(a){var s=null,r=A.dG(a.b,s,s,s,B.Uc,s,s),q=this.a
 return new A.qA(a.a,q.w,new A.anL(q),r,s,t.PE)},
@@ -46708,7 +46708,7 @@ A.lC.prototype={
 I(a){return A.avo(this.c,!0,35,12)}}
 A.lF.prototype={
 I(a){var s=null,r=A.rU(20)
-return A.bu(s,A.cE(A.a([A.cN(A.aOr(this.d,A.azu(s,B.hC,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!1,s,s,s,this.c,s,s,s,s,s,s,s,s,s,s,s,s,s)),s,300)],t.p),B.bc,B.az,B.ch,s),s,new A.fB(B.Ek,s,s,s,new A.cw(r,B.o)),68,s,B.GS,350)}}
+return A.bu(s,A.cE(A.a([A.cN(A.aOr(this.d,A.azu(s,B.hC,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!1,s,s,s,this.c,s,s,s,s,s,s,s,s,s,s,s,s,s)),s,300)],t.p),B.bc,B.az,B.ch,s),s,new A.fB(B.Ek,s,s,s,new A.cw(r,B.o)),60,s,B.GS,350)}}
 A.Dl.prototype={
 ad(){return new A.VF(null,null,B.i)}}
 A.VF.prototype={
@@ -92412,9 +92412,9 @@ B.AQ=new A.y2("INICIAR","home",null)
 B.QZ=new A.dq(1/0,null,B.AQ,null)
 B.AR=new A.y2("LOGIN","login",null)
 B.R_=new A.dq(1/0,null,B.AR,null)
-B.R0=new A.dq(null,120,null,null)
-B.R1=new A.dq(null,12,null,null)
-B.R2=new A.dq(null,140,null,null)
+B.R0=new A.dq(null,100,null,null)
+B.R1=new A.dq(null,110,null,null)
+B.R2=new A.dq(null,12,null,null)
 B.eF=new A.dq(null,16,null,null)
 B.k3=new A.dq(null,18,null,null)
 B.dn=new A.dq(null,20,null,null)
@@ -92802,7 +92802,7 @@ B.Wh=new A.dc("Deixe seu feedback para construirmos o app juntos!",B.m7,14,B.at,
 B.Wi=new A.dc("Sua sa\xfade por uma\nnova perspectiva",B.j,30,B.a3,null)
 B.Wo=new A.dc("Feedback",B.l,20,B.at,null)
 B.Wp=new A.dc("Sobre o MVP",B.aS,28,B.a3,null)
-B.Wt=new A.dc("Informa\xe7oes Pessoais",B.aS,28,B.a3,null)
+B.Wt=new A.dc("Informa\xe7\xf5es Pessoais",B.aS,28,B.a3,null)
 B.Wu=new A.Dn(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.cl=new A.R3(0.001,0.001)
 B.yZ=new A.Dr(!1,!1,!1,!1)
